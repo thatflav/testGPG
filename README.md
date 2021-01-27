@@ -1,4 +1,4 @@
-asdfknap# testGPG
+FINAL asdfknap# testGPG
 1
 2
 3
