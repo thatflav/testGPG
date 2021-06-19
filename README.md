@@ -1,9 +1,5 @@
-Update - add gpg to new device 
-2
-3
-4
-5
-6
-7
-8
-9
+Update - add gpg to new device
+.
+.
+.
+Add gpg to linux 
