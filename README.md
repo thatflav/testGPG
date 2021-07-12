@@ -7,3 +7,5 @@ Add gpg to linux
 .
 .
 Add gpg to windows
+.
+test key
